@@ -19,4 +19,4 @@ To replicate the findings and execute the code in this repository you will need 
 - Seaborn
 - Imbalanced Learn
 
-''' pip install -p requirements.txt '''
+``` pip install -p requirements.txt ```
