@@ -23,4 +23,4 @@ To replicate the findings and execute the code in this repository you will need 
 
 ### Plotting the model training history
 
-![Image of Yaktocat] (https://github.com/Timothy102/Tensorflow-for-Airbnb-Prices/download.png)
+<img src="https://github.com/Timothy102/Tensorflow-for-Airbnb-Prices/blob/main/download.png" alt="drawing" width="750"/>
