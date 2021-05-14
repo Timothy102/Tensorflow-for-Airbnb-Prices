@@ -20,3 +20,7 @@ To replicate the findings and execute the code in this repository you will need 
 - Imbalanced Learn
 
 ` pip install -p requirements.txt `
+
+### Plotting the model training history
+
+![Image of Yaktocat](https://github.com/Timothy102/Tensorflow-for-Airbnb-Prices/download.png)
